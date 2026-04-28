@@ -1,7 +1,7 @@
 # 🎬 Royal Films - Sidebar Gallery Project
 
 A responsive **HTML + CSS web project** featuring a modern sidebar navigation and image gallery.  
-Built for practice and portfolio showcase using pure frontend technologies.
+Built for practice and portfolio showcase using pure frontend technologies. 
 
 ---
 
