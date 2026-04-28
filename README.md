@@ -29,8 +29,8 @@ Built for practice and portfolio showcase using pure frontend technologies.
 ```
 PROJECT Mini HTML+CSS/
 │
-├── project.html        # Main homepage (Sidebar UI)
-├── project.css         # Styling for homepage + sidebar
+├── index.html        # Main homepage (Sidebar UI)
+├── style.css         # Styling for homepage + sidebar
 │
 ├── gallery.html        # Image gallery page
 ├── gallery.css         # Styling for gallery grid
@@ -54,14 +54,14 @@ cd royal-films-gallery
 ```
 Run project:
 ```
-Open project.html in your browser
+Open index.html in your browser
 ```
 
 ---
 
 ## 💻 Usage
 
-* Open `project.html` to view homepage with sidebar  
+* Open `index.html` to view homepage with sidebar  
 * Click on **Gallery** to view image gallery  
 * Navigate using sidebar menu icons  
 * Fully responsive on mobile devices  
