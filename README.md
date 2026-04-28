@@ -27,7 +27,7 @@ Built for practice and portfolio showcase using pure frontend technologies.
 
 ## 📂 Project Structure
 ```
-PROJECT Mini HTML+CSS(Royal Films)/
+PROJECT Mini HTML+CSS (Royal Films)/
 │
 ├── index.html        # Main homepage (Sidebar UI)
 ├── style.css         # Styling for homepage + sidebar
