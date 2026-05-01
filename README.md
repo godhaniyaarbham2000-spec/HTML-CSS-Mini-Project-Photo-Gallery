@@ -27,7 +27,7 @@ Built for practice and portfolio showcase using pure frontend technologies.
 
 ## 📂 Project Structure
 ```
-photo-gallery/
+HTML-CSS-Mini-Project-Photo-Gallery/
 │
 ├── index.html          # Main homepage (Sidebar UI)
 ├── style.css           # Styling for homepage + sidebar
@@ -46,11 +46,11 @@ photo-gallery/
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/photo-gallery.git
+git clone https://github.com/godhaniyaarbham2000-spec/HTML-CSS-Mini-Project-Photo-Gallery.git
 ```
 Open project folder:
 ```
-cd photo-gallery
+cd HTML-CSS-Mini-Project-Photo-Gallery
 ```
 Run project:
 ```
