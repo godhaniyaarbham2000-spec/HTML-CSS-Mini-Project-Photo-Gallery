@@ -1,4 +1,4 @@
-# 🎬 Royal Films - Sidebar Gallery Project
+# 🎬 Photo Gallery - Sidebar Gallery Project
 
 A responsive **HTML + CSS web project** featuring a modern sidebar navigation and image gallery.  
 Built for practice and portfolio showcase using pure frontend technologies. 
@@ -27,10 +27,10 @@ Built for practice and portfolio showcase using pure frontend technologies.
 
 ## 📂 Project Structure
 ```
-PROJECT Mini HTML+CSS (Royal Films)/
+photo-gallery/
 │
-├── index.html        # Main homepage (Sidebar UI)
-├── style.css         # Styling for homepage + sidebar
+├── index.html          # Main homepage (Sidebar UI)
+├── style.css           # Styling for homepage + sidebar
 │
 ├── gallery.html        # Image gallery page
 ├── gallery.css         # Styling for gallery grid
@@ -46,11 +46,11 @@ PROJECT Mini HTML+CSS (Royal Films)/
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/royal-films-gallery.git
+git clone https://github.com/your-username/photo-gallery.git
 ```
 Open project folder:
 ```
-cd royal-films-gallery
+cd photo-gallery
 ```
 Run project:
 ```
